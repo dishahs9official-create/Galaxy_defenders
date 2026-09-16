@@ -24,7 +24,7 @@ A Python space shooter game built with pygame.
 | Escape | Quit |
 
 ## Features
-- 4 enemy types (Grunt, Speeder, Tank, Elite)
+- 4 enemy types (Grunt, Speeder, Tank, Elite).
 - Endless waves that get harder
 - Particle explosions
 - Parallax star background
